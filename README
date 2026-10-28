@@ -16,14 +16,16 @@ La partida termina cuando el jugador cae o choca contra un meteorito.
 📸 Capturas del videojuego
 Aquí puedes ver algunas imágenes del juego durante su desarrollo y funcionamiento.
 
-### Vista Del Inicio del Juego
-![Vista Inicio Juego Bola](imagenes/ball4.png)!
 
-### Vista Del del Juego
-![Vista Inicio Juego Bola](imagenes/ball2.png)!
 
-### Vista Del del Juego en Proceso
-![Vista Inicio Juego Bola](imagenes/ball3.png)!
+### Vista del juego
+![Vista del juego](imagenes/ball2.png)
+
+### Juego en proceso
+![Juego en proceso](imagenes/ball3.png)
+
+### Pantalla de derrota
+![Pantalla de derrota](imagenes/ball4.png)
 
 
 🛠️ Cómo desarrollé el proyecto
